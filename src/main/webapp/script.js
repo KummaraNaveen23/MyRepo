@@ -3,7 +3,7 @@ const players = [
     { name: "Virat Kohli", category: "Batsman", basePrice: 200 },
     { name: "Jasprit Bumrah", category: "Bowler", basePrice: 180 },
     { name: "MS Dhoni", category: "Wicketkeeper", basePrice: 150 },
-    { name: "Ben Stokes", category: "All-rounder", basePrice: 220 }
+    { name: "Jadeja", category: "All-rounder", basePrice: 220 }
 ];
 
 const teams = [
